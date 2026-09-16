@@ -14,5 +14,9 @@
   "2": {
     "name": "",
     "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/1789568250436.png?raw=true"
+  },
+  "artix": {
+    "name": "artix",
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/Artix_logo.svg.png?raw=true"
   }
 }
