@@ -5,7 +5,7 @@
   },
   "cachyos": {
     "name": "Cachyos Linux (arch-base)",
-    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/cachyos_thumb.png"
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/cachyos_thumb.png?raw=true"
   },
   "fedora": {
     "name": "Fedora",
