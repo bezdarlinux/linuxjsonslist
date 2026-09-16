@@ -1,7 +1,7 @@
 {
-  "arch": {
-    "name": "Arch Linux",
-    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/arch-linux.png?raw=true"
+  "chimera": {
+    "name": "Chimera linux",
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/chimera-logo.png?raw=true"
   },
   "ubuntu": {
     "name": "Ubuntu",
