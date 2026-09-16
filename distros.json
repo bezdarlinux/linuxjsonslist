@@ -1,7 +1,7 @@
 {
   "arch": {
     "name": "Arch Linux",
-    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/arch.png"
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/arch-linux.png?raw=true"
   },
   "ubuntu": {
     "name": "Ubuntu",
