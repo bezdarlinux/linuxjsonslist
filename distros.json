@@ -3,9 +3,9 @@
     "name": "Chimera linux",
     "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/chimera-logo.png?raw=true"
   },
-  "ubuntu": {
-    "name": "Ubuntu",
-    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/ubuntu.png"
+  "cachyos": {
+    "name": "Cachyos Linux (arch-base)",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/cachyos_thumb.png"
   },
   "fedora": {
     "name": "Fedora",
