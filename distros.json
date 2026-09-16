@@ -7,9 +7,9 @@
     "name": "Cachyos Linux (arch-base)",
     "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/cachyos_thumb.png?raw=true"
   },
-  "fedora": {
-    "name": "Fedora",
-    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/fedora.png"
+  "1": {
+    "name": "",
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/1789561756773.png?raw=true"
   },
   "nixos": {
     "name": "NixOS",
