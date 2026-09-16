@@ -1,1 +1,18 @@
-
+{
+  "arch": {
+    "name": "Arch Linux",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/arch.png"
+  },
+  "ubuntu": {
+    "name": "Ubuntu",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/ubuntu.png"
+  },
+  "fedora": {
+    "name": "Fedora",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/fedora.png"
+  },
+  "nixos": {
+    "name": "NixOS",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/nixos.png"
+  }
+}
