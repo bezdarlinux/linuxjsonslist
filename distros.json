@@ -18,5 +18,9 @@
   "artix": {
     "name": "artix",
     "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/Artix_logo.svg.png?raw=true"
+  },
+  "portal": {
+    "name": "as",
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/3840px-Aperture_Science.svg_png.png?raw=true"
   }
 }
