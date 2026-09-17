@@ -22,5 +22,9 @@
   "portal": {
     "name": "as",
     "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/3840px-Aperture_Science.svg_png.png?raw=true"
-  }
+  },
+  "fedora": {
+    "name": "as",
+    "icon": "https://github.com/bezdarlinux/linuxjsonslist/blob/main/3840px-Fedora_icon_-282021-29.svg_png.png?raw=true"
+  },
 }
